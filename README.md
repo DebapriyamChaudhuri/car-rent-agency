@@ -1,3 +1,4 @@
 # car-rent-agency.github.io
 
-Here is the website link https://uncooperative-posit.000webhostapp.com/carrental/index.php
+Visit the weibsite https://uncooperative-posit.000webhostapp.com/carrental/index.php
+Click on details, then click on visit the site anyways. It won't do any harm to your device
